@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RobFalc99
 - 👀 I’m interested in computer science
-- 📫 How to reach me [...](https://linktr.ee/rob_falc) - robsfalc@gmail.com
+- 📫 How to reach me [LinkTree](https://linktr.ee/rob_falc) - robsfalc@gmail.com
 
 <!---
 RobFalc99/RobFalc99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
